@@ -3,7 +3,7 @@ Talenavi Backend Internship Test
 Candidate: Joshua Nicholas Harludi
 Role: Backend Developer Internship
 
-This repository contains the source code for the Talenavi Technical Test. It is a RESTful API built with Laravel 11 that handles Todo management and generates custom Excel reports.
+This repository contains the source code for the Talenavi Technical Test. It is a RESTful API built with Laravel 12 that handles Todo management and generates custom Excel reports.
 
 Tech Stack
 
